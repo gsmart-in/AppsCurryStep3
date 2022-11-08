@@ -24,7 +24,7 @@
     "copy-webpack-plugin": "^5.0.1",
     "css-loader": "^2.1.1",
     "html-webpack-inline-source-plugin": "0.0.10",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "jquery": "^3.5.0",
     "node-sass": "^7.0.0",
     "popper.js": "^1.14.7",
